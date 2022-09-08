@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "도예 공방 원데이 / 도자기 그릇 만들기 (예약가능)",
+      "price": 32000,
+      "thumbnail": "https://res.cloudinary.com/frientrip/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,q_auto,r_5,w_192/1610_Gongbang_01_1477457672181",
+      "rank": 5,
+      "grade": 4.5
+    },
+    {
+      "id": 2,
+      "name": "충무로 클라이밍 원데이 클래스",
+      "price": 30000,
+      "thumbnail": "https://res.cloudinary.com/frientrip/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,q_auto,r_5,w_192/160505_climbing_01",
+      "rank": 3,
+      "grade": 4.2
+    },
+    {
+      "id": 3,
+      "name": "하루 15분 영어, 쉬운 문장에서 복잡한 문장까지!",
+      "price": 30000,
+      "thumbnail": "https://res.cloudinary.com/frientrip/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,q_auto,r_5,w_192/product_banner_1617870956770_934739",
+      "rank": 8,
+      "grade": 4.1
+    },
+    {
+      "id": 4,
+      "name": "프리다이빙 자격증따기! (예약 가능)",
+      "price": 105000,
+      "thumbnail": "https://res.cloudinary.com/frientrip/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,q_auto,r_5,w_192/AdobeStock_297777425_ymsbcb",
+      "rank": 2,
+      "grade": 4.8
+    },
+    {
+      "id": 5,
+      "name": "[양양] 서프오션 서핑 강습&렌탈권 (예약 가능)",
+      "price": 45000,
+      "thumbnail": "https://res.cloudinary.com/frientrip/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,q_auto,r_5,w_192/product_banner_1617348598380_309349",
+      "rank": 1,
+      "grade": 5
+    },
+    {
+      "id": 6,
+      "name": "자유 페인팅 아크릴화 드로잉카페 (예약 가능)",
+      "price": 20000,
+      "thumbnail": "https://res.cloudinary.com/frientrip/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,q_auto,r_5,w_192/IMG_4576_tjz0bn",
+      "rank": 4,
+      "grade": 4.5
+    },
+    {
+      "id": 7,
+      "name": "[부산] 현역 선수와 함께하는 광안리 선셋 패들보드",
+      "price": 25000,
+      "thumbnail": "https://res.cloudinary.com/frientrip/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,q_auto,r_5,w_192/KakaoTalk_20210628_140449558_qehcdd",
+      "rank": 6,
+      "grade": 4.8
+    },
+    {
+      "id": 8,
+      "name": "브랜드타입 향수 + 꽃방향제 만들기 (예약 가능)",
+      "price": 31500,
+      "thumbnail": "https://res.cloudinary.com/frientrip/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,q_auto,r_5,w_192/%EB%A9%94%EC%9D%B8_uiup7n",
+      "rank": 7,
+      "grade": 3.9
+    }
+  ]
+}

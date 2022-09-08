@@ -1,0 +1,55 @@
+.card {
+  position: relative;
+  width: 180px;
+  min-width: 180px;
+  margin: 0 0 20px 0;
+
+  .rank {
+    position: absolute;
+    top: 6px;
+    left: 8px;
+  }
+
+  .thumbnail-container {
+    width: 100%;
+    margin: 0 0 6px 0;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .name {
+    margin: 0 0 6px 0;
+
+    color: #000000;
+    font-size: 14px;
+    font-weight: 500;
+
+    overflow: hidden;
+    word-break: keep-all;
+    text-overflow: ellipsis;
+  }
+
+  .price {
+    display: block;
+    margin: 0 0 5px 0;
+
+    font-size: 14px;
+    font-weight: 900;
+  }
+
+  .grade-container {
+    display: flex;
+    align-items: center;
+
+    img {
+      margin: 0 3px 0 0;
+    }
+
+    .grade {
+      font-size: 11px;
+      color: rgb(187, 187, 187);
+    }
+  }
+}
